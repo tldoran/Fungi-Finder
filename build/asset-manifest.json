@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/funfungi-website/static/css/main.2a7126e4.css",
+    "main.js": "/funfungi-website/static/js/main.9cf54709.js",
+    "index.html": "/funfungi-website/index.html",
+    "main.2a7126e4.css.map": "/funfungi-website/static/css/main.2a7126e4.css.map",
+    "main.9cf54709.js.map": "/funfungi-website/static/js/main.9cf54709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a7126e4.css",
+    "static/js/main.9cf54709.js"
+  ]
+}
