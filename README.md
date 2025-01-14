@@ -2,6 +2,7 @@
 A computer vision model to classify different family species of Fungi 
 
 Created using vite + TS
+API to Roboflow Vision Model with 99.4% accuracy
 
 To Install:
 - Npm Install
