@@ -1,7 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://detect.roboflow.com/funfungi/1'; // Replace with your actual Roboflow API URL
-const API_KEY = 'SdjgcwnuENZhdcsU6OQi'; // Replace with your actual Roboflow API key
+const API_URL = 'https://detect.roboflow.com/funfungi/1'; // Roboflow API URL
 
 export const uploadImage = async (imageFile: File): Promise<any> => {
   const formData = new FormData();
